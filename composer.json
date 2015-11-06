@@ -1,0 +1,8 @@
+{
+    "name": "benelang/telegram-jenkins-bot",
+    "type": "project",
+    "require": {
+        "php": ">=5.4.0",
+        "longman/telegram-bot": "*"
+    }
+}
